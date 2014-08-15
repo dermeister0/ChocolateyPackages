@@ -6,15 +6,15 @@
     <title>IronPython</title> 
     <version>2.7.4.20140815</version> 
     <authors>IronPython Community</authors> 
-    <owners>__CHOCO_PKG_MAINTAINER_NAME__</owners> 
-    <summary>__NAME__</summary> 
-    <description>__NAME__</description> 
-    <projectUrl>__REPLACE__</projectUrl> 
-    <tags>__NAME__ admin</tags> 
+    <owners>Der_Meister</owners> 
+    <summary>IronPython - the Python programming language for the .NET Framework.</summary> 
+    <description>IronPython is an open-source implementation of the Python programming language which is tightly integrated with the .NET Framework. IronPython can use the .NET Framework and Python libraries, and other .NET languages can use Python code just as easily.</description>
+    <projectUrl>http://ironpython.net/</projectUrl> 
+    <tags>ironpython .NET python</tags> 
     <copyright>© IronPython Community</copyright> 
     <licenseUrl>http://opensource.org/licenses/apache2.0.php</licenseUrl> 
     <requireLicenseAcceptance>false</requireLicenseAcceptance> 
-    <!--<iconUrl>https://raw.githubusercontent.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/__NAME__.png</iconUrl>--> 
+    <iconUrl>https://raw.githubusercontent.com/dermeister0/ChocolateyPackages/master/IronPython/ironpython-logo-383x95.png</iconUrl>
     <!--<dependencies> 
       <dependency id="" version="" /> 
     </dependencies>--> 
