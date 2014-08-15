@@ -4,13 +4,13 @@
   <metadata> 
     <id>ironpython</id> 
     <title>IronPython</title> 
-    <version>2.7.4.20140815</version> 
+    <version>2.7.4.20140816</version> 
     <authors>IronPython Team</authors> 
     <owners>Der_Meister</owners> 
-    <summary>IronPython - the Python programming language for the .NET Framework.</summary> 
+    <summary>IronPython is the Python programming language for the .NET Framework.</summary> 
     <description>IronPython is an open-source implementation of the Python programming language which is tightly integrated with the .NET Framework. IronPython can use the .NET Framework and Python libraries, and other .NET languages can use Python code just as easily.</description>
     <projectUrl>http://ironpython.net/</projectUrl> 
-    <tags>ironpython .NET python</tags> 
+    <tags>ironpython .net python</tags> 
     <copyright>© IronPython Community</copyright> 
     <licenseUrl>http://opensource.org/licenses/apache2.0.php</licenseUrl> 
     <requireLicenseAcceptance>false</requireLicenseAcceptance> 
