@@ -2,17 +2,17 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. --> 
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd"> 
   <metadata> 
-    <id>__NAME__</id> 
-    <title>__NAME__</title> 
-    <version>__REPLACE__</version> 
-    <authors>__REPLACE__</authors> 
+    <id>ironpython</id> 
+    <title>IronPython</title> 
+    <version>2.7.4.20140815</version> 
+    <authors>IronPython Community</authors> 
     <owners>__CHOCO_PKG_MAINTAINER_NAME__</owners> 
     <summary>__NAME__</summary> 
     <description>__NAME__</description> 
     <projectUrl>__REPLACE__</projectUrl> 
     <tags>__NAME__ admin</tags> 
-    <copyright></copyright> 
-    <licenseUrl>__REPLACE__</licenseUrl> 
+    <copyright>© IronPython Community</copyright> 
+    <licenseUrl>http://opensource.org/licenses/apache2.0.php</licenseUrl> 
     <requireLicenseAcceptance>false</requireLicenseAcceptance> 
     <!--<iconUrl>https://raw.githubusercontent.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/__NAME__.png</iconUrl>--> 
     <!--<dependencies> 
@@ -20,7 +20,7 @@
     </dependencies>--> 
     <releaseNotes></releaseNotes> 
   </metadata> 
-  <files> 
+  <!--<files> 
     <file src="tools\**" target="tools" /> 
-  </files> 
+  </files> -->
 </package> 
