@@ -5,7 +5,7 @@
     <id>ironpython</id> 
     <title>IronPython</title> 
     <version>2.7.4.20140815</version> 
-    <authors>IronPython Community</authors> 
+    <authors>IronPython Team</authors> 
     <owners>Der_Meister</owners> 
     <summary>IronPython - the Python programming language for the .NET Framework.</summary> 
     <description>IronPython is an open-source implementation of the Python programming language which is tightly integrated with the .NET Framework. IronPython can use the .NET Framework and Python libraries, and other .NET languages can use Python code just as easily.</description>
