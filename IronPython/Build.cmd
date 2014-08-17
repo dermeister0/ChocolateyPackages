@@ -1,1 +1,1 @@
-cpack "%~dp0NuGet\ironpython.nuspec"
+cpack "%~dp0ironpython.nuspec"

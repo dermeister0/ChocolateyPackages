@@ -20,7 +20,7 @@
     </dependencies>--> 
     <releaseNotes></releaseNotes> 
   </metadata> 
-  <!--<files> 
+  <files> 
     <file src="tools\**" target="tools" /> 
-  </files> -->
+  </files>
 </package> 
