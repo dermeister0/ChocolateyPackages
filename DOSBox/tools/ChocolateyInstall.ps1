@@ -1,1 +1,0 @@
-﻿Install-ChocolateyPackage 'dosbox' 'exe' '/S' 'http://sourceforge.net/projects/dosbox/files/dosbox/0.74/DOSBox0.74-win32-installer.exe/download' -checksum 'b4d671ed3fc1fc36aaf8abc1341d2ddaaafa8f88' -checksumType 'sha1'
