@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. --> 
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd"> 
+  <metadata> 
+    <id>dosbox</id> 
+    <title>DOSBox</title> 
+    <version>0.74.0.20140817</version> 
+    <authors>The DOSBox Team</authors> 
+    <owners>Der_Meister</owners> 
+    <summary>An Open Source DOS emulator to run old DOS games</summary> 
+    <description>
+DOSBox is a DOS-emulator that uses the SDL-library which makes DOSBox very easy to port to different platforms. DOSBox has already been ported to many different platforms, such as Windows, BeOS, Linux, MacOS X...
+
+DOSBox also emulates CPU:286/386 realmode/protected mode, Directory FileSystem/XMS/EMS, Tandy/Hercules/CGA/EGA/VGA/VESA graphics, a SoundBlaster/Gravis Ultra Sound card for excellent sound compatibility with older games...
+    </description>
+    <projectUrl>http://www.dosbox.com/</projectUrl> 
+    <tags>dosbox dos emulator games</tags> 
+    <copyright>© DOSBox</copyright> 
+    <licenseUrl>http://opensource.org/licenses/GPL-2.0</licenseUrl> 
+    <requireLicenseAcceptance>false</requireLicenseAcceptance> 
+    <iconUrl>https://raw.githubusercontent.com/dermeister0/ChocolateyPackages/master/DOSBox/icon.png</iconUrl>
+    <!--<dependencies> 
+      <dependency id="" version="" /> 
+    </dependencies>--> 
+    <releaseNotes></releaseNotes> 
+  </metadata> 
+  <files> 
+    <file src="tools\**" target="tools" /> 
+  </files>
+</package> 

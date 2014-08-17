@@ -1,0 +1,1 @@
+cinst dosbox -source %cd%
